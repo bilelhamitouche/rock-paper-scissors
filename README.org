@@ -1,0 +1,5 @@
+#+TITLE: Rock Paper Scissors
+#+AUTHOR: Bilel Hamitouche
+
+
+This is a simple rock paper scissors game written in JavaScript and is played in the console.
