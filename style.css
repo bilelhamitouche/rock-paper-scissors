@@ -1,0 +1,29 @@
+
+body {
+    background-color: #2d2a2e;
+    color: #fcfcfa;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 3rem;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 3rem;
+}
+
+button {
+    background-color: #ffd866;
+    color: #2d2a2e;
+    border-radius: 0.6rem;
+    border-color: #ffd866;
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+footer {
+    text-align: center;
+}
